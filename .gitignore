@@ -112,3 +112,4 @@ dist
 .tern-port
 config.json
 credentials.json
+run.bat
